@@ -1,6 +1,6 @@
 name = "METIS_jll"
 uuid = "d00139f3-1899-568f-a2f0-47f597d42d70"
-version = "4.0.3+1"
+version = "5.1.0+3"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
