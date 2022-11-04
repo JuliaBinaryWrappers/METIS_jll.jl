@@ -1,143 +1,143 @@
 [[METIS]]
 arch = "aarch64"
-git-tree-sha1 = "11f82d168d7024262c2ee48e955b0b962d3bdde0"
+git-tree-sha1 = "92d05a42220fdd0b59536d0b9c60c5de428a630d"
 os = "macos"
 
     [[METIS.download]]
-    sha256 = "6d2944c724738efd449762dfee3ffff9377ed4693e454090a438efdedb294f6e"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "3978de780ce532d388a8c6cb2ab922a76dc2bc3e486f7f49f3b7f2978adc335b"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.aarch64-apple-darwin.tar.gz"
 [[METIS]]
 arch = "aarch64"
-git-tree-sha1 = "f0c9fe622a16d4768125a4b965eda218de994b72"
+git-tree-sha1 = "6702ccb4d0bbaf737125c7d579cb9856c919b0c6"
 libc = "glibc"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "015bd4cba084210f73d5428fa56b8455129b615aa12a6852893063d6c64107a6"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "066dcbdfac00af834ef119a621b287361434514b2941b5976dcc1fa243fd1670"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.aarch64-linux-gnu.tar.gz"
 [[METIS]]
 arch = "aarch64"
-git-tree-sha1 = "28ca473fb25ba4b076fa0d57f37038c327bb789c"
+git-tree-sha1 = "2952295ea079cd3ef81255c7a97bf19e1cb7bab9"
 libc = "musl"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "a0d929b2f8a931b9010fa13da4467c9450b2a47dde7543c3b6f8a6d08208a3a7"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.aarch64-linux-musl.tar.gz"
+    sha256 = "b2e6c17138814f7ce74144b41a136a0b132e4fb75629e49e6875899e1edd0851"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.aarch64-linux-musl.tar.gz"
 [[METIS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0e1dfa3f6a05059ed077084d90af0b7e15266c6e"
+git-tree-sha1 = "d7dc41cd593b7ee3a0051e3a55a1a839fec1c18c"
 libc = "glibc"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "fa2540a6bd64153c4b0453fd122159692e3acb7228fb269e52fbf2083cec08a3"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ecdc6cdd7c130d3b785cde4653fde22a9f54787d168bc54d74f1f06f3975afb7"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.armv6l-linux-gnueabihf.tar.gz"
 [[METIS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ef54bdc5afefb08c84ac38d93256140c4f59ddcc"
+git-tree-sha1 = "ae19efafea02bb914c11bfd59b5682ffebc2d97f"
 libc = "musl"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "ac80ed790c88af28affd0e934a945d9594af60b0adc621fbc2ae3447bd155a3b"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "33559290ea746ea9e8f12c1be404fe2c0051e77268cbaba1b3631da41b362fca"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.armv6l-linux-musleabihf.tar.gz"
 [[METIS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "fced931300ae09966469e368913556948bb9d9b9"
+git-tree-sha1 = "a0b0bab39734c790bb3a14dafe362bbe75954b67"
 libc = "glibc"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "a7bd43efeca202aee80d5a8af87bdf90b065e75cd8edd0241f874c69e8e59874"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "95d940d8a30ec99ea73745f72983c254a47160fb8161f787999680dfa5e07eb6"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.armv7l-linux-gnueabihf.tar.gz"
 [[METIS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2664ffcac50e4aaa90c6fb1eb2c8befabd2ac42c"
+git-tree-sha1 = "0e0fb000b5fe3cba2a51d4074d74211b023228a0"
 libc = "musl"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "1d7e1c335d79a76784cf191d77f84cf035cd231e244d1a3957a30bed4c14676d"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "86332a8e4487ce7330babc94b6164bd88da175304e7b08c34f81264116a60d3d"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.armv7l-linux-musleabihf.tar.gz"
 [[METIS]]
 arch = "i686"
-git-tree-sha1 = "62b723b5af71b4b3fbff5ea812699e034f3d688f"
+git-tree-sha1 = "9807c1aa229254b1b3064f65d377684582ae955e"
 libc = "glibc"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "e1254d022d10d51a964e0584541d6a4f7f43b5f300d1c3b63aa38a5a425526f2"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.i686-linux-gnu.tar.gz"
+    sha256 = "5c4a6e440cde611d13ec8eaad268e667a5243e40f8c904125f9362cc1c5fe978"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.i686-linux-gnu.tar.gz"
 [[METIS]]
 arch = "i686"
-git-tree-sha1 = "44ea2eb536935e300183e0a36e4e750cb059bbc2"
+git-tree-sha1 = "844277398872bd0f2a05155030169748bdcc976f"
 libc = "musl"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "5e9ba81b58c52dcc3f9b08344bedc04a5f20cdd918549601bfda682c815726eb"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.i686-linux-musl.tar.gz"
+    sha256 = "48ef36ccf4a94cd426652d82595620a85cd4a4014fea9775a189cb79fd0a9b9e"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.i686-linux-musl.tar.gz"
 [[METIS]]
 arch = "i686"
-git-tree-sha1 = "05bae971ac556fc24a9b0cfd55cd02543db48a1f"
+git-tree-sha1 = "b3052f7e3f5b75b7e061e2cbb3ceea21f88beac5"
 os = "windows"
 
     [[METIS.download]]
-    sha256 = "77f21017ed4395e09138024ad825b33972a38087f1f22b4b4fd3cc12207f4593"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.i686-w64-mingw32.tar.gz"
+    sha256 = "664c7b4ad2fd58c26d359f8d20ef4de719ab5fe2003d3fac1232c3f072dfcd37"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.i686-w64-mingw32.tar.gz"
 [[METIS]]
 arch = "powerpc64le"
-git-tree-sha1 = "3c9c4a6fac5dd4e1aa7b08856e536109b90c09a5"
+git-tree-sha1 = "7235eedb6b12bf77a52f115a717a8b0a49eaeea6"
 libc = "glibc"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "84b389035fb092242905c781bf9bc6ad7ebb31c195fff437c5a80656fca987a9"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "59410577f62a13d38aceb36cff0c300748e02014a28ec61d37092ef577634908"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.powerpc64le-linux-gnu.tar.gz"
 [[METIS]]
 arch = "x86_64"
-git-tree-sha1 = "95df559aa452e5723a113abb7a04a790952083d1"
+git-tree-sha1 = "085281efe66fd732117b891040ff6132937ea29b"
 os = "macos"
 
     [[METIS.download]]
-    sha256 = "ae9db0c3063879e93ac7263f7b3bf398a7f67b93df7a784dc2d35d52292cbe7a"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "fc6eaff09ad4f939e97dd8f46a8459208eeca581fe0f506c124ed02dc62a1867"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.x86_64-apple-darwin.tar.gz"
 [[METIS]]
 arch = "x86_64"
-git-tree-sha1 = "82a6f6806daf6b9dde345481328ff9f2acc01807"
+git-tree-sha1 = "e5244f73466343373a87ed1345efac5e3440fa96"
 libc = "glibc"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "81405c9d2f571a6c74dd32521881489309f0ee163182defc2967ab2bf2634b5b"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "cd715cbf6a41fb7b56d6336de3699b355427cfbb334dc367c4afcae15fa209c7"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.x86_64-linux-gnu.tar.gz"
 [[METIS]]
 arch = "x86_64"
-git-tree-sha1 = "7169578603f47b96142dc675924c64c072b12753"
+git-tree-sha1 = "836adfc774a36d54d61ee11cac9621a243e3c927"
 libc = "musl"
 os = "linux"
 
     [[METIS.download]]
-    sha256 = "69127e0e8526efd661faeb3500136802352461e0e26df569d098828de4f07160"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.x86_64-linux-musl.tar.gz"
+    sha256 = "29565174a3629c3ba39c313cf05aa083b542fec9922f99e641257ba699891648"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.x86_64-linux-musl.tar.gz"
 [[METIS]]
 arch = "x86_64"
-git-tree-sha1 = "5c2a401c93c6a9f840ad5d8f2c787eb76cef1ef9"
+git-tree-sha1 = "d27d670c8aa300c92c0f039c131118259ac16d6d"
 os = "freebsd"
 
     [[METIS.download]]
-    sha256 = "b152c6ca46392641d03512670550d9d4aaaf876dc9f657eb5924b1ea4b038982"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ec93b77d4ee772ca9fedc3174401788b5d3c42e21b3589b93aad5f7040d4791f"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.x86_64-unknown-freebsd.tar.gz"
 [[METIS]]
 arch = "x86_64"
-git-tree-sha1 = "c38d4841e6181c87e6c31d98b8a3fdfeeed70218"
+git-tree-sha1 = "4edb4158850f5c8426a4a332ec2bc34737dcd222"
 os = "windows"
 
     [[METIS.download]]
-    sha256 = "7889b71c11efd5bcbebe30342c2d0208ee53d3c6ac13848173e47337e6425636"
-    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.1+0/METIS.v5.1.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "0686f3c67b8e145d16c238a078a560e7c2e98fff46c6a072cb1b714fc806654c"
+    url = "https://github.com/JuliaBinaryWrappers/METIS_jll.jl/releases/download/METIS-v5.1.2+0/METIS.v5.1.2.x86_64-w64-mingw32.tar.gz"
